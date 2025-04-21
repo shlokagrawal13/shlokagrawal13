@@ -10,7 +10,6 @@ I’m a passionate MERN Stack Developer with real-world project experience.
 💻 Some of My Projects:
 - 🌐 [allindiapanchayatparishad.com](https://allindiapanchayatparishad.com) (Live Website)
 - 📰 News Portal (React.js)
-- 🏨 Hotel Booking Frontend (React + API Integration)
 
 💡 I believe in clean code, scalable solutions, and client satisfaction.
 
