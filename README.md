@@ -8,6 +8,7 @@ I’m a passionate MERN Stack Developer with real-world project experience.
 - MongoDB (Database)
 
 💻 Some of My Projects:
+- 🌐 [fixonwealth.in](https://www.fixonwealth.in/) (Live Website)
 - 🌐 [allindiapanchayatparishad.com](https://allindiapanchayatparishad.com) (Live Website)
 - 📰 News Portal (React.js)
 
